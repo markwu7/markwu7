@@ -9,7 +9,7 @@
 - ⚙️ Interested in distributed systems, cloud-native infrastructure, and large-scale computing.
 - 🤖 Exploring LLM inference, AI infrastructure, and distributed serving.
 - 💻 Building scalable backend systems with Go, C++, Python, and Kubernetes.
-- 🌱 Keep learning, grinding, and contributing
+- 🌱 Keep learning, grinding!
 
 ## 📫 How to reach me
 
